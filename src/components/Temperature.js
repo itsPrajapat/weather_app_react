@@ -37,7 +37,7 @@ const Temperature = () => {
             </div> 
         </div> : <div className="card my-4 mx-4"  style={{"width": "18rem"}}>
             <div className="card-body">
-                <h5 className="card-title">Enter the city name properly</h5>
+                <h5 className="card-title">Temperature shown here</h5>
             </div> 
         </div>}
     </div>
